@@ -1,2 +1,2 @@
 # YADRO-intership_projects
-KiCad
+- KiCad
